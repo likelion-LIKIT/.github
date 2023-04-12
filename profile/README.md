@@ -23,7 +23,7 @@
 
 ## 🧑‍💻 팀원 소개
 
-| 이름 |  구현우  | 이수화 | 신영한 | 이서현
+| 이름 |  구현우  | 이수화 | 신영한 | 이서현 |
 | :------------: | :------------: | :-----------: |  :------------: | :-----------: |  
 |  | <img src="https://user-images.githubusercontent.com/72565083/230766542-b2898bf8-e748-4697-9549-e6925699f9be.png" width="150"/> | <img src="https://user-images.githubusercontent.com/72565083/230766777-d4f9acb2-b752-47e8-8011-fb354328ff2c.png" width="150"/> | <img src="https://avatars.githubusercontent.com/u/83218200?v=4" width="150"/> |<img src="https://avatars.githubusercontent.com/u/90851865?s=400&u=b728089d09499144caa10807f9f2a09ee3729782&v=4" width="150"/> |
 | 깃허브 | [@GHWooo](https://github.com/GHWooo) | [@rosielsh](https://github.com/rosielsh) | [@syhan7516](https://github.com/syhan7516)|[@kathyleesh](https://github.com/kathyleesh)|
@@ -38,18 +38,34 @@
  <td align="center">언어</td>
  <td>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=Java&logoColor=white"/></a>
  </td>
+</tr>
+<tr>
+ <td align="center">프레임워크</td>
+ <td>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=ffffff"/>&nbsp  
 </tr>
 <tr>
  <td align="center">라이브러리</td>
  <td>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=ffffff"/>&nbsp  
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=ffffff"/>&nbsp
+  <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=ffffff"/>&nbsp
 </tr>
 <tr>
  <td align="center">패키지 매니저</td>
  <td>
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">&nbsp 
   </td>
+</tr>
+<tr>
+ <td align="center">인프라</td>
+ <td>
+  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=MYSQL&logoColor=ffffff"/>&nbsp
+  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=ffffff"/>&nbsp
+  <img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=ffffff"/>&nbsp
+  <img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=ffffff"/>&nbsp
 </tr>
 <tr>
  <td align="center">포맷팅</td>
@@ -59,6 +75,7 @@
   <img src="https://img.shields.io/badge/PostCSS-DD3A0A?style=for-the-badge&logo=PostCSS&logoColor=ffffff"/>&nbsp 
   </td>
 </tr>
+
 <tr>
  <td align="center">협업툴</td>
  <td>
@@ -72,7 +89,7 @@
  <td>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>&nbsp 
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>&nbsp 
- 
+    <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white"/>&nbsp 
  </td>
 </tr>
 </table>
