@@ -100,8 +100,37 @@
 ## 📖 화면 구성
 
 ### 1. 메인 페이지
+![likit-main](https://user-images.githubusercontent.com/88186460/231513016-4eb3486d-de8c-4f9e-9765-778f22b7db5e.png)
 
-![image](https://user-images.githubusercontent.com/72565083/230763422-daefdf95-1aa9-49d5-8a47-94c362b95241.png)
+### 2. 로그인 페이지
+![likit-login](https://user-images.githubusercontent.com/88186460/231513073-37406595-b667-4e5e-b611-1b1d1990b77d.png)
+
+### 3. 마이 페이지
+![likit-my](https://user-images.githubusercontent.com/88186460/231513148-0946fde1-d77b-42e6-9ec2-ab9f088c4ed0.png)
+
+### 4. 동아리 소개 페이지
+![likit-introduce](https://user-images.githubusercontent.com/88186460/231513178-6a329031-b1e6-4cf5-88a8-af3c34e096cd.png)
+
+### 5. 조직도 페이지
+![likit-organiztion](https://user-images.githubusercontent.com/88186460/231513198-4a8c55ba-13b2-495c-966a-8809b7d13d0f.png)
+
+### 6. 전체 공지 페이지
+![likit-notice](https://user-images.githubusercontent.com/88186460/231513219-52f4935d-d3b8-4f6c-81c3-70e01e31f7c6.png)
+
+### 7. 과제 공지 페이지
+![likit-homework](https://user-images.githubusercontent.com/88186460/231513242-56873704-dfa9-4e23-a80a-6cbdbc1af8b9.png)
+
+### 8. 장부 페이지
+![likit-accout](https://user-images.githubusercontent.com/88186460/231513260-f68f5f85-8213-44a4-ba8f-762525eba5c1.png)
+
+### 9. 글 작성 페이지
+![likit-write](https://user-images.githubusercontent.com/88186460/231513283-1945b57f-b3be-4022-a5cb-bfe87f7ffddb.png)
+
+### 10. 글 조회 페이지
+![likit-read](https://user-images.githubusercontent.com/88186460/231513294-3f538566-ad14-41ae-8c61-acee6a7b3cf1.png)
+
+### 11. 활동 페이지
+![likit-activity](https://user-images.githubusercontent.com/88186460/231513313-92519308-ca7a-46fc-ad79-0a11da3b5377.png)
 
 
 ## ✨ 주요 기능
